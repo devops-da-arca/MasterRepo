@@ -5,7 +5,7 @@ Instruções aos navegantes da Arca:
 
 1. Criar conta no github
 
-2.Criar conta no Trello
+2. Criar conta no Trello
 
 3. Ingressar no Board do Projeto: https://trello.com/invite/b/P5BYxl4Y/a4dfc963e6405fce7f6e4e7eaba4a891/gerador-de-relat%C3%B3rios-em-gsheets
 
