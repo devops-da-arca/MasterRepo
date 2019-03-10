@@ -56,5 +56,7 @@ Dando fork no projeto no github
 
 Para comitar
 
+1. Enviar suas alterações para a sua master (mesmo processo da empresa)
+
     $ git add --all
     $ git commit -m "Mensagem de commit"
