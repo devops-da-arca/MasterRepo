@@ -39,8 +39,12 @@ Você ainda pode fazer o mesmo, ainda que tenha dado clone ao inves de fork mas,
 
 --Como fazer commits?(Bons commits)
 Lembre-se que mais do que um backup do que se está fazendo, um commit é uma forma de organização e apresentação de status do trabalho para os outros desenvolvedores.
+
 O ideal é que se faça um commit para cada novo módulo ou alteração completada, não deixe para programar durante dois dias sem para e depois fazer um mega patch de commit.
--"Mas, neste fds meu cachorro pegou fogo e comeu o cabo da internet achando que era um cano de de água e só pude dar commit na terça quando o técnico foi lá em casa!" --Neste caso temos a opção de usar o commando -Git Stash- para "separar o código" em vários commits. Não faz idéia do que é Stash ou de como fazer isso? Se liga aqui então:
+
+-"Mas, neste fds meu cachorro pegou fogo e comeu o cabo da internet achando que era um cano de de água e só pude dar commit na terça quando o técnico foi lá em casa!" --Neste caso temos a opção de usar o commando -Git Stash- para "separar o código" em vários commits. 
+
+Não faz idéia do que é Stash ou de como fazer isso? Se liga aqui então:
     Mini Mega Resumo de Git: http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/book.html ;
     Mini Enciclopédia Básica de Git: https://github.com/bpassos/git-commands/blob/master/translation/README.pt-br.md#stashing-arquivos
     
