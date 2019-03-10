@@ -19,3 +19,12 @@ Instruções iniciais do projeto:
 
 Gerar sua própria versão do projeto, através um MVP(minimum viable product) de acordo com as histórias de usuário presentes no Board.
 
+Não utilize frameworks! Apesar de muito úteis e reduzirem grande parte do esforço de trabalho, não estamos focados em produto final e sim, em evoluir nosso conhecimento de base. Quando tiver uma base forte, você conseguirá dominar e selecionar qual framework utilizar em que projeto, uma vez que tenha ciência de quais facilidades cada framework te proverá.
+
+Utilize un reset de css. Utilizo o Meyerweb (https://meyerweb.com/eric/tools/css/reset/reset.css), caso deseje, use o de sua preferência.
+Caso não saiba o que é um reset de css, leia isto: http://blog.thiagobelem.net/css-reset-o-que-e-e-como-usar.
+
+
+
+
+
