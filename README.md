@@ -42,7 +42,8 @@ Lembre-se que mais do que um backup do que se está fazendo, um commit é uma fo
 
 O ideal é que se faça um commit para cada novo módulo ou alteração completada, não deixe para programar durante dois dias sem para e depois fazer um mega patch de commit.
 
--"Mas, neste fds meu cachorro pegou fogo e comeu o cabo da internet achando que era um cano de de água e só pude dar commit na terça quando o técnico foi lá em casa!" --Neste caso temos a opção de usar o commando -Git Stash- para "separar o código" em vários commits. 
+---"Mas, neste fds meu cachorro pegou fogo e comeu o cabo da internet achando que era um cano de de água e só pude dar commit na terça quando o técnico foi lá em casa!" 
+---Neste caso temos a opção de usar o commando -Git Stash- para "separar o código" em vários commits. 
 
 Não faz idéia do que é Stash ou de como fazer isso? Se liga aqui então:
     Mini Mega Resumo de Git: http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/book.html ;
