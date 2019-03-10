@@ -14,6 +14,9 @@ Instruções aos navegantes da Arca:
 4. Dar fork no projeto do git (o projeto original possui somente um arquivo txt chamado README.md)
 
 
+--------------------///--------------------
+
+
 
 Instruções iniciais do projeto:
 
@@ -24,6 +27,15 @@ Não utilize frameworks! Apesar de muito úteis e reduzirem grande parte do esfo
 Utilize un reset de css. Utilizo o Meyerweb (https://meyerweb.com/eric/tools/css/reset/reset.css), caso deseje, use o de sua preferência.
 Caso não saiba o que é um reset de css, leia isto: http://blog.thiagobelem.net/css-reset-o-que-e-e-como-usar.
 
+
+--------------------///--------------------
+
+
+-FAQ (e não tão frequentes também):
+
+--Clone ou Fork?
+Basicamente, um "fork" é uma requisição para que o GitHub clone um projeto e o registre no seu username; O GitHub também mantém registro de relacionamento entre os dois repositorios (o sobre o seu username e o do username original, o famoso "track"), com isso, voce pode visualizar os commits e os pulls dos dois projetos (e de outros forks! Por isso neste projeto daremos preferencia ao fork. =]).
+Voce ainda pode fazer o mesmo, ainda que tenha dado clone ao inves de fork mas, por o comando clone tornar o projeto privado, voce tera que configurar ele manualmente para que os commits e pulls fiquem publicos.
 
 
 
