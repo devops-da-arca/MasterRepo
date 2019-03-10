@@ -1,9 +1,9 @@
 # MasterRepo
-##Repositório Mestre destinado aos estudantes de HTML, CSS, JS e Git
+## Repositório Mestre destinado aos estudantes de HTML, CSS, JS e Git
 
 
 
-##Instruções aos navegantes da Arca:
+## Instruções aos navegantes da Arca:
 
 1. Criar conta no github
 2. Criar conta no Trello
@@ -12,7 +12,7 @@
 
 
 
-###Instruções iniciais do projeto:
+### Instruções iniciais do projeto:
 
 Gerar sua própria versão do projeto, através um MVP(minimum viable product) de acordo com as histórias de usuário presentes no Board.
 
@@ -23,7 +23,7 @@ Caso não saiba o que é um reset de css, [leia isto](http://blog.thiagobelem.ne
 
 
 
-###-FAQ :+1: (e não tão frequentes também):</br>
+### FAQ :+1: (e não tão frequentes também):</br>
 
 __Que diabos é essa historinha que estou vendo no Board?__</br>
 As "histórias de usuário" é uma forma que usamos para levantar requisitos na agilidade, ou seja, entender o que precisamos fazer.
