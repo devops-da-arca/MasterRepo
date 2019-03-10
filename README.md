@@ -52,11 +52,3 @@ Dando fork no projeto no github
 
     $ git checkout -b nomeDoInfeliz 
 (caso você já tenha criado uma branch manualmente pelo site do github, esse comando não será necessário, no momento em que você der git pull, essa branch virá junto com a master)
-
-
-Para comitar
-
-1. Enviar suas alterações para a sua master (mesmo processo da empresa)
-
-    $ git add --all
-    $ git commit -m "Mensagem de commit"
