@@ -34,9 +34,17 @@ Caso não saiba o que é um reset de css, leia isto: http://blog.thiagobelem.net
 -FAQ (e não tão frequentes também):
 
 --Clone ou Fork?
-Basicamente, um "fork" é uma requisição para que o GitHub clone um projeto e o registre no seu username; O GitHub também mantém registro de relacionamento entre os dois repositorios (o sobre o seu username e o do username original, o famoso "track"), com isso, voce pode visualizar os commits e os pulls dos dois projetos (e de outros forks! Por isso neste projeto daremos preferencia ao fork. =]).
-Voce ainda pode fazer o mesmo, ainda que tenha dado clone ao inves de fork mas, por o comando clone tornar o projeto privado, voce tera que configurar ele manualmente para que os commits e pulls fiquem publicos.
+Basicamente, um "fork" é uma requisição para que o GitHub clone um projeto e o registre no seu username; O GitHub também mantém registro de relacionamento entre os dois repositorios (o sobre o seu username e o do username original, o famoso "track"), com isso, você pode visualizar os commits e os pulls dos dois projetos (e de outros forks! Por isso neste projeto daremos preferência ao fork. =]).
+Você ainda pode fazer o mesmo, ainda que tenha dado clone ao inves de fork mas, por o comando clone tornar o projeto privado, você terá que configurar ele manualmente para que os commits e pulls fiquem públicos.
 
-
-
-
+--Como fazer commits?(Bons commits)
+Lembre-se que mais do que um backup do que se está fazendo, um commit é uma forma de organização e apresentação de status do trabalho para os outros desenvolvedores.
+O ideal é que se faça um commit para cada novo módulo ou alteração completada, não deixe para programar durante dois dias sem para e depois fazer um mega patch de commit.
+-"Mas, neste fds meu cachorro pegou fogo e comeu o cabo da internet achando que era um cano de de água e só pude dar commit na terça quando o técnico foi lá em casa!" --Neste caso temos a opção de usar o commando -Git Stash- para "separar o código" em vários commits. Não faz idéia do que é Stash ou de como fazer isso? Se liga aqui então:
+    Mini Mega Resumo de Git: http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/book.html ;
+    Mini Enciclopédia Básica de Git: https://github.com/bpassos/git-commands/blob/master/translation/README.pt-br.md#stashing-arquivos
+    
+    
+    
+    
+    
